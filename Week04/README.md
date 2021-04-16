@@ -6,3 +6,5 @@ Interfaces
 - got into interfaces using an `IWalk` example
   - `walkingSpeed` property and `walk` method
 - walked through an example with the use of the interface
+
+This week uses code from the Week03 folder
